@@ -1,2 +1,2 @@
 # My-restaurant
-![Alt text]("C:\Users\Lenovo\Desktop\Untitled.jpg")
+![Alt text](./Untitled.jpg)
